@@ -9,12 +9,10 @@
 
 ## Tecnologías
 
-- HTML5 semántico
-- CSS3 (Flexbox, Grid, animaciones)
+- HTML5
+- CSS3
 - JavaScript (ES6+)
 - React
-- Bootstrap
-- WordPress
 - Figma, Canva
-- Lenguajes: JS, Python, Java, C++
+- Lenguajes: Python, Java, C++
 - Bases de datos: MySQL
