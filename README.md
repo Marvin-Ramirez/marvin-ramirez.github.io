@@ -14,5 +14,5 @@
 - JavaScript (ES6+)
 - React
 - Figma, Canva
-- Lenguajes: Python, Java, C++
-- Bases de datos: MySQL
+- Python, Java, C++
+- MySQL
