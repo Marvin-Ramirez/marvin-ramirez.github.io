@@ -11,7 +11,8 @@
 - HTML5
 - CSS3
 - JavaScript (ES6+)
+- Figma
+- Node.js, Python, Java, C++
 - React
-- Figma, Canva
-- Python, Java, C++
-- MySQL
+- Express.js 
+- SQL
