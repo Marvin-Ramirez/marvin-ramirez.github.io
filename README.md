@@ -2,7 +2,7 @@
 
 ¡Hola! Soy **Marvin Ramírez**, desarrollador de software junior apasionado por crear experiencias digitales atractivas y funcionales. Este es el repositorio de mi portafolio personal, donde muestro algunos de mis proyectos y habilidades.
 
-🔗 [**Ver sitio en vivo**](https://marvin-ramirez.github.io/)     📧 [**Contacto**](mailto:marvin.saulrf@gmail.com)
+🔗 [**Ver sitio en vivo**](https://marvin-ramirez.github.io/) 📧 [**Contacto**](mailto:marvin.saulrf@gmail.com)
 
 ---
 
@@ -13,6 +13,7 @@
 - JavaScript (ES6+)
 - Figma
 - Node.js, Python, Java, C++
+- C# .NET
 - React
-- Express.js 
-- SQL
+- Express.js
+- SQL (MySQL & SQL Server)
